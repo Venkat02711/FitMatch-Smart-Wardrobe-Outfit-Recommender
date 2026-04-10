@@ -1,2 +1,13 @@
-# FitMatch-Smart-Wardrobe-Outfit-Recommender
-A Smart Wardrobe Organizer built using Java Swing and MySQL that helps users manage clothing items and receive personalized outfit suggestions.
+🚀 Features
+Add and manage clothing items
+Rule-based outfit recommendation system
+Factors considered:
+Weather
+Occasion
+Day of the week
+Horoscope star
+Usage history tracking
+Laundry management system
+Status tracking (AVAILABLE / LAUNDRY)
+MySQL database integration using JDBC
+Interactive Java Swing GUI
