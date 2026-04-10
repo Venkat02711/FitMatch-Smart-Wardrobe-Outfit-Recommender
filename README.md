@@ -11,3 +11,9 @@ Laundry management system
 Status tracking (AVAILABLE / LAUNDRY)
 MySQL database integration using JDBC
 Interactive Java Swing GUI
+
+How to use : 
+(XAMPP / phpMyAdmin)
+Open phpMyAdmin
+Click Import
+Upload schema.sql
